@@ -1,6 +1,6 @@
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack beginner-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I find great enthusiasm in engaging with novel challenges through the application of various technologies. In the realm of backend development, I proficiently employ Java, while on the frontend, my expertise lies in ReactJs. I possess a fervor for exploring emerging technologies and employing them judiciously to craft solutions with a strong emphasis on accessibility and superior quality. At present, I function as an beginner-level full-stack developer with a specialized focus on web development</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gbcavalieri&theme=radical&mode=weekly" />
