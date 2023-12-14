@@ -3,7 +3,7 @@
 <p align="center">I find great enthusiasm in engaging with novel challenges through the application of various technologies.<br> In the realm of backend development, I proficiently employ Java, while on the frontend, my expertise lies in ReactJs.<br> I possess a fervor for exploring emerging technologies and <br>employing them judiciously to craft solutions with a strong emphasis on accessibility and superior quality. <br>At present, I function as an beginner-level full-stack developer with a specialized focus on web development</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=Gbcavalieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=Gbcavalieri&show_icons=true&theme=dracula" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbcavalieri&layout=compact&langs_count=7&theme=dracula" />
  </div>
  
