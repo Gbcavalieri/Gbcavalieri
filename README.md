@@ -71,3 +71,5 @@
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+ ![github-contribution-grid-snake](https://github.com/Gbcavalieri/Gbcavalieri/assets/106851081/b965f679-191e-4970-af1b-7309a718231c)
