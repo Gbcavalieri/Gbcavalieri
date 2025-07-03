@@ -14,6 +14,8 @@
 
 ## My Skills
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gbcavalieri&label=Profile%20views&color=0e75b6&style=flat" alt="Gbcavalieri" /> </p>
+
 #### Main Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
